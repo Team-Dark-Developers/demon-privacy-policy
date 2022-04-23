@@ -62,7 +62,7 @@ This can be done by removing the bot from the server. (More info will be added s
 
 ## How can we delete our entire data?
 
-### - Simply join our support server and ask Developer Team to delete your entire data, They will delete your entrie data without asking any question.
+#### - Simply join our support server and ask Developer Team to delete your entire data, They will delete your entrie data without asking any question.
 
 ## I'm questioning why do you need all this data, and this Privacy Policy doesn't answer my question. What should I do?
 

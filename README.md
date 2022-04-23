@@ -3,7 +3,7 @@
 
 #
 
-### What Data does it Store -
+## What Data does it Store -
 
 #### Data collected by command -
 - The following items may be collected and stored when intentionally provided by a user (usually by means of a command or adding the bot to the server).
@@ -36,7 +36,6 @@ NOTE - When the bot is removed form the server it does not delete the id's.
 
 ## Data Security -
 
-#
 1. We do not use anyone personal data for ourselves.
 2. We do not share your data with 3rd party applications and services.
 3. We do not store anyone's data without permissions.
@@ -44,14 +43,13 @@ NOTE - When the bot is removed form the server it does not delete the id's.
 #
  
 #### How is data stored -
-Data is stored in secure databases used by the bot. However Please keep in mind that even with these protections, no data will ever be 100% secure. All efforts & measures taken to keep your data  secure and personal, however it's absolute security cannot be guaranteed.
+- Data is stored in secure databases used by the bot. However Please keep in mind that even with these protections, no data will ever be 100% secure. All efforts & measures taken to keep your data  secure and personal, however it's absolute security cannot be guaranteed.
 
 #
 
 ## Opting out -
 
-#
-User can opt out if they don't want their messages logged (bot will blacklist logging for user and will not log any data of user).
+- User can opt out if they don't want their messages logged (bot will blacklist logging for user and will not log any data of user).
 This can be done by removing the bot from the server. (More info will be added soon.)
 
 ## How can I get rid of the data stored? 
@@ -64,7 +62,7 @@ This can be done by removing the bot from the server. (More info will be added s
 
 ## How can we delete our entire data?
 
-### Simply join our support server and ask Developer Team to delete your entire data, They will delete your entrie data without asking any question.
+### - Simply join our support server and ask Developer Team to delete your entire data, They will delete your entrie data without asking any question.
 
 ## I'm questioning why do you need all this data, and this Privacy Policy doesn't answer my question. What should I do?
 

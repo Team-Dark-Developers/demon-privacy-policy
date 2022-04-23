@@ -4,7 +4,7 @@
 
 
 #### Data collected by command -
--The following items may be collected and stored when intentionally provided by a user (usually by means of a command or adding the bot to the server).
+- The following items may be collected and stored when intentionally provided by a user (usually by means of a command or adding the bot to the server).
 1. Server configurations for utility commands such as Server Icon, Server Membercount, Custom Server Prefixes, etc.
 2. Data and content for  like afk command.
 3. Message Archive for deleted messages, Edited messages are logged in log channel of server (if enabled).

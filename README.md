@@ -1,5 +1,5 @@
 # **Demon's Privacy Policy**
-### By using Demon you accept with its privacy policy.
+#### By using Demon Bot you accept to our privacy policy. ✔️
 
 #
 
@@ -60,18 +60,25 @@ This can be done by removing the bot from the server. (More info will be added s
 ### 2. You may choose to opt out of message logging feature.
 - You can opt out for message logging feature by contacting our admins on our support server, They will blacklist you for message logging(Your message wouldn't be logged)
 
-## How can we delete our entire data?
+#
 
-#### - Simply join our support server and ask Developer Team to delete your entire data, They will delete your entrie data without asking any question.
+### How can we delete our entire data?
 
-## I'm questioning why do you need all this data, and this Privacy Policy doesn't answer my question. What should I do?
+#### - Simply join our support server and ask Developer Team to delete your entire data, They will delete your entire data without asking any question.
+
+#
+
+#### I'm questioning why do you need all this data, and this Privacy Policy doesn't answer my question. What should I do?
 
 #### You can reach us by the following things:
 - Join our [Support Server](https://discord.gg/zvynSK7Crk) on discord
 - Contact me on discord [Mr. Frag Nite#7717](https://discord.com/users/730424922639302693)
 
-## Please note, that we can change this policy without any warning at any given time.
+#
+
+#### Please note, that we can change this policy without any warning at any given time.
 #### **Last changed:**  `2022 April 23rd`
 --------
 
 <a href="https://github.com/ItzzNeo13" alt="https://github.com/ItzzNeo13"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=ItzzNeo13&color=000000"></a>
+<a href="https://github.com/Team-Dark-Developers/demon-privacy-policy/commits/main" alt="https://github.com/Team-Dark-Developers/demon-privacy-policy/commits/main"><img src="https://img.shields.io/github/last-commit/Team-Dark-Developers/demon-privacy-policy?style=for-the-badge"></a>

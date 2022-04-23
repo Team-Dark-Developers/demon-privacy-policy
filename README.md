@@ -1,6 +1,8 @@
 ## **Demon's Privacy Policy**
 ### By using Demon you accept with its privacy policy.
 
+#
+
 ### What Data does it Store -
 
 #### Data collected by command -

@@ -1,4 +1,4 @@
-## **Demon's Privacy Policy**
+# **Demon's Privacy Policy**
 ### By using Demon you accept with its privacy policy.
 
 #
@@ -34,7 +34,9 @@ NOTE - When the bot is removed form the server it does not delete the id's.
 
 #
 
-#### Data Security -
+## Data Security -
+
+#
 1. We do not use anyone personal data for ourselves.
 2. We do not share your data with 3rd party applications and services.
 3. We do not store anyone's data without permissions.
@@ -46,8 +48,9 @@ Data is stored in secure databases used by the bot. However Please keep in mind 
 
 #
 
-# Opting out -
+## Opting out -
 
+#
 User can opt out if they don't want their messages logged (bot will blacklist logging for user and will not log any data of user).
 This can be done by removing the bot from the server. (More info will be added soon.)
 
